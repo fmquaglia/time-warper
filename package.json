@@ -1,0 +1,20 @@
+{
+  "name": "time-warper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "langchain": "^0.0.39",
+    "serpapi": "^1.1.1"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
